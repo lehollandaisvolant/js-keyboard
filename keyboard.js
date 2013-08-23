@@ -1,8 +1,7 @@
 /* ********************************************************************
  **********************************************************************
  * HTML Virtual Keyboard Interface Script 1.49 - rev 3 (timo)
- *  Copyright (c) 2011 - GreyWyvern
- *	Copyright (c) 2013 - Timo Van Neerden (http://lehollandaisvolant.net/)
+ *	Copyright (c) 2011 - GreyWyvern
  *
  *	- Licenced for free distribution under the BSDL
  *			 http://www.opensource.org/licenses/bsd-license.php
@@ -48,7 +47,7 @@
  *	- Turkish keyboard layouts by offcu
  *	- Dutch and US Int'l keyboard layouts by jerone
  *
- * - 2013 - Timo van Neerden
+ * - 2013 - Timo van Neerden http://lehollandaisvolant.net/
 
  *	   * CSS update
  *    * Creates Bookmarklet
