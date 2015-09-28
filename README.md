@@ -17,3 +17,14 @@ Supported Layouts are albanian, arabic, armenian-e, armenian-w, assamese, azebai
 
 
 A screenshot of the keyboard is available here : http://lehollandaisvolant.net/img/clavier-virtuel.jpg
+
+
+to use it :
+
+– make a bookmarklet by draging the whole JS link ;
+
+– clic on it (might not work on some site — including Github and Twitter, that prenvent bookmarklets to work — and some HTTPS sites, according to you browsers restrictions)
+
+– clic on any input field
+
+– the keyboard should now display itself. Use it either with your mouse or with your keyboard.
